@@ -1,0 +1,5 @@
+{
+  "name": "Israel Accessibility Widget (Standard 5568)",
+  "description": "A comprehensive, plug-and-play accessibility toolbar for React applications. Compliant with Israeli Standard 5568 and WCAG 2.1 Level AA. Features include text resizing, contrast modes, readable fonts, reading guides, persistent settings, and easy configuration.",
+  "requestFramePermissions": []
+}

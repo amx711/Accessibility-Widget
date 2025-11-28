@@ -6,7 +6,7 @@ This widget provides essential accessibility tools such as contrast modes, text 
 
 ---
 
-### Disclamer
+### Disclaimer
 
 - **We do not take any risk or liability. This tool will NOT make your site 100% accessible automatically. YOU MUST CONSULT A LAWYER.**
 - **For More Info about the risks check our website.**

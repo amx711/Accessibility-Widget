@@ -57,7 +57,7 @@ const DemoContent: React.FC = () => {
             A comprehensive React component offering UI tools compliant with Israeli Standard 5568 and WCAG 2.1 Level AA.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="bg-blue-600 text-white px-8 py-4 rounded-lg font-bold hover:bg-blue-500 transition shadow-lg flex items-center justify-center gap-2" onClick={window.open("https://github.com/amx711/Accessibility-Widget/", "_blank");}>
+            <button className="bg-blue-600 text-white px-8 py-4 rounded-lg font-bold hover:bg-blue-500 transition shadow-lg flex items-center justify-center gap-2" onClick={window.open("https://github.com/amx711/Accessibility-Widget/", "_blank")}>
               <Download className="w-5 h-5" />
               Get it Now
             </button>
